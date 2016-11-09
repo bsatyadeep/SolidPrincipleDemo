@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrincipleDemo", "SolidPrincipleDemo\SolidPrincipleDemo.csproj", "{1ADED537-0903-4BA4-ABD2-BEE099D618D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solid", "Solid\Solid.csproj", "{47F40F4E-E229-4F92-A08D-BE1FA2AA7D81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidWrong", "SolidWrong\SolidWrong.csproj", "{494357A0-076A-4D60-8BC9-646DB0210AE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ADED537-0903-4BA4-ABD2-BEE099D618D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADED537-0903-4BA4-ABD2-BEE099D618D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADED537-0903-4BA4-ABD2-BEE099D618D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADED537-0903-4BA4-ABD2-BEE099D618D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47F40F4E-E229-4F92-A08D-BE1FA2AA7D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F40F4E-E229-4F92-A08D-BE1FA2AA7D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F40F4E-E229-4F92-A08D-BE1FA2AA7D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F40F4E-E229-4F92-A08D-BE1FA2AA7D81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{494357A0-076A-4D60-8BC9-646DB0210AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494357A0-076A-4D60-8BC9-646DB0210AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494357A0-076A-4D60-8BC9-646DB0210AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494357A0-076A-4D60-8BC9-646DB0210AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
